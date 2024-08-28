@@ -1,2 +1,2 @@
-# Yard-mUygulamas-AnalizD-k-man-
+# YardimUygulamasiAnalizDokumani
 Yapmış Olduğum Yardım Uygulaması Projesinin Analiz Dökümanının Detayları
